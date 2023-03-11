@@ -1,0 +1,8 @@
+{
+    "values": [
+        "silence_mobs:uninstall",
+        "elevators:uninstall",
+        "fast_leaf_decay:uninstall",
+        "armor_statues:uninstall"
+    ]
+}

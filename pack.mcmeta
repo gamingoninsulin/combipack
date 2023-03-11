@@ -1,0 +1,17 @@
+{
+    "pack": {
+		"pack_format": 10,
+		"description":"	\u00A7eA cobined datapack\n\u00A7aVersion 1.19+"
+    },
+    "autors": {
+        "autor_owner": "GamingOnInsulin",
+        "website": "https://gamingoninsulin.github.io/cluster/",
+
+        "autor_VanillaTweaks": "XisumaVoid",
+        "link_xiumavoid": "https://www.youtube.com/@xisumavoid",
+        "link_datapack_creator_site": "https://vanillatweaks.net"
+    },
+	"pack_information": {
+		"minecraft_version": "1,19,X"
+	}
+}
